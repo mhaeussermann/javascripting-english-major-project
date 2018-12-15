@@ -1,27 +1,20 @@
-let i;
-i = 1;
-while(i < 4) {
-    if (i % 2 == 0 ) {
-        $("#response").append("<br />" + i + " is odd")
-      } else {
-        $("#response").append("<br />" + i + " is even");
-      }
-    i = i + 1;
-}
+// Exercise 1: Function to return last item of array
+let arrayOfStrings, arrayOfNumbers, arrayMixed;
+arrayOfStrings = ["a", "b", "c"];
+arrayOfNumbers = [1, 2, 3];
+arrayMixed = ["a", 1, null, true, arrayOfNumbers, [4.5, 5.6]];
 
-let tipCalculator;
-tipCalculator = function(total, tipRate){
-  // 1. Calculate the percentage of the total 
-  // as a variable “tipAmount”
-  let tipAmount;
-  if (tipRate <= 100 && tipRate >= 1){
-    var tipRate
-    tipRate = tipRate * 0.01;
+let checkarray
+checkarray = function(some_array){
+    $("#response").html(some_array[some_array.length - 1])
+};
+
+checkarray(arrayOfStrings)
+
+// Excercise 2: Integer check
+var numberquestion = parseInt(prompt("What's your number?"));
+if(Number.isInteger(numberquestion)){
+    $("#response").html("Your number is an integer");
+  } else {
+    $("#response").html("Your number is not an integer");
   }
-  tipAmount = tipRate * total;
-  // 2. Change #response to tell us the tip
-  // amount.
-  $("#response").html("Your tip is $" + tipAmount);
-} 
-
-tipCalculator(50.00, 20);
