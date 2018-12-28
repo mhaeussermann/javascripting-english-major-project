@@ -1,0 +1,34 @@
+p {
+    color: #657b83;
+  }
+
+img.rounded {
+  max-height: 300px; 
+  width: auto;
+  float: right;
+  padding-left: 5px;
+}
+
+.second-paragraph {
+    color: #b58900;
+  }
+#third-paragraph {
+    color: #d33682;
+  }
+
+.lead {
+  color: white;
+}
+
+.lead a {
+  color: white;
+}
+
+
+.lead:hover {
+  color: black;
+}
+
+.lead a:hover {
+  color: black;
+}
