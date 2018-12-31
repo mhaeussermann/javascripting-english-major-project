@@ -8,3 +8,7 @@ L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x
     });
 tileLayer.addTo(firstMap);
 firstMap.setView([40.730833, -73.9975], 16);
+let BobstLibrary;
+BobstLibrary = L.marker([40.729444, -73.997222]);
+BobstLibrary.addTo(firstMap);
+BobstLibrary.bindPopup("This is Bobst Library.");
