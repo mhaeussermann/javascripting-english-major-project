@@ -37,7 +37,6 @@ Unna = L.latLng(51.534722, 7.688889);
 Paderborn = L.latLng(51.719444, 8.757222);
 Minden = L.latLng(52.283333, 8.916667);
 Hannover = L.latLng(52.374444, 9.738611);
-Hamburg = L.latLng(53.550556, 9.993333);
 Wintermaerchen = [Aachen, Koeln, Muelheim, Hagen, Unna, Paderborn, Minden, Hannover, Hamburg];
 
 // Set Wintermaerchen pointers
@@ -47,3 +46,18 @@ Wintermaerchen.forEach(function(element) {
 
 // Draw Wintermaerchen line
 polyline = L.polyline(Wintermaerchen, {color: 'red'}).addTo(firstMap);
+
+// Define Wintermaerchen (actual) places
+Bruessel = L.latLng(50.843333, 4.363056);
+Muenster = L.latLng(51.962944, 7.628694);
+Osnabrueck = L.latLng(52.278889, 8.043056);
+Bremen = L.latLng(53.075878, 8.807311);
+actWintermaerchen = [Bruessel, Muenster, Osnabrueck, Bremen, Hamburg];
+
+// Set Wintermaerchen (actual) pointers
+actWintermaerchen.forEach(function(element) {
+  L.marker(element).addTo(firstMap);
+});
+
+// Draw Wintermaerchen (actual) line
+polyline = L.polyline(actWintermaerchen, {color: 'green'}).addTo(firstMap);
