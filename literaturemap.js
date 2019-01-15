@@ -1,4 +1,4 @@
-let firstMap;
+let firstMap, tileLayer;
 firstMap = L.map("first-map");
 tileLayer =
 L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
@@ -11,6 +11,7 @@ tileLayer.addTo(firstMap);
 firstMap.setView([51.165, 10.455278], 6);
 
 // Define Faserland places
+let Sylt, Hamburg, FrankfurtaM, Heidelberg, Muenchen, Meersburg, Zuerich, Faserland;
 Sylt = L.latLng(54.915833, 8.330833);
 Hamburg = L.latLng(53.550556, 9.993333);
 FrankfurtaM = L.latLng(50.110556, 8.682222);
@@ -26,9 +27,11 @@ Faserland.forEach(function(element) {
   });
 
 // Draw Faserland line
-polyline = L.polyline(Faserland, {color: 'black'}).addTo(firstMap);
+let polylineF;
+polylineF = L.polyline(Faserland, {color: "black"}).addTo(firstMap);
 
 // Define Wintermaerchen places
+let Aachen, Koeln, Muelheim, Hagen, Unna, Paderborn, Minden, Hannover, Wintermaerchen;
 Aachen = L.latLng(50.776667, 6.083611);
 Koeln = L.latLng(50.938056, 6.956944);
 Muelheim = L.latLng(51.433056, 6.883056);
@@ -45,9 +48,11 @@ Wintermaerchen.forEach(function(element) {
   });
 
 // Draw Wintermaerchen line
-polyline = L.polyline(Wintermaerchen, {color: 'red'}).addTo(firstMap);
+let polylineW;
+polylineW = L.polyline(Wintermaerchen, {color: "red"}).addTo(firstMap);
 
 // Define Wintermaerchen (actual) places
+let Bruessel, Muenster, Osnabrueck, Bremen, actWintermaerchen;
 Bruessel = L.latLng(50.843333, 4.363056);
 Muenster = L.latLng(51.962944, 7.628694);
 Osnabrueck = L.latLng(52.278889, 8.043056);
@@ -60,4 +65,5 @@ actWintermaerchen.forEach(function(element) {
 });
 
 // Draw Wintermaerchen (actual) line
-polyline = L.polyline(actWintermaerchen, {color: 'green'}).addTo(firstMap);
+let polylineaW;
+polylineaW = L.polyline(actWintermaerchen, {color: "green"}).addTo(firstMap);
