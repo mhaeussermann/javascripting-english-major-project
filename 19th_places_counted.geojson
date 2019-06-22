@@ -1,0 +1,642 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3414,48.85717 ]
+    },
+    "properties": {
+    "name":"Paris",
+    "html":"Paris",
+    "mentions":4525,
+    "wikipedia":"https://de.wikipedia.org/wiki/Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.37691,52.51604 ]
+    },
+    "properties": {
+    "name":"Berlin",
+    "html":"Berlin",
+    "mentions":4352,
+    "wikipedia":"https://de.wikipedia.org/wiki/Berlin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12721,51.50642 ]
+    },
+    "properties": {
+    "name":"London",
+    "html":"London",
+    "mentions":1517,
+    "wikipedia":"https://de.wikipedia.org/wiki/London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.99183,53.55375 ]
+    },
+    "properties": {
+    "name":"Hamburg",
+    "html":"Hamburg",
+    "mentions":1234,
+    "wikipedia":"https://de.wikipedia.org/wiki/Hamburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.73815,52.37227 ]
+    },
+    "properties": {
+    "name":"Hannover",
+    "html":"Hannover",
+    "mentions":794,
+    "wikipedia":"https://de.wikipedia.org/wiki/Hannover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38594,51.3452 ]
+    },
+    "properties": {
+    "name":"Leipzig",
+    "html":"Leipzig",
+    "mentions":772,
+    "wikipedia":"https://de.wikipedia.org/wiki/Leipzig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74081,51.05363 ]
+    },
+    "properties": {
+    "name":"Dresden",
+    "html":"Dresden",
+    "mentions":712,
+    "wikipedia":"https://de.wikipedia.org/wiki/Dresden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.89788,48.37034 ]
+    },
+    "properties": {
+    "name":"Augsburg",
+    "html":"Augsburg",
+    "mentions":669,
+    "wikipedia":"https://de.wikipedia.org/wiki/Augsburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.44046,46.94843 ]
+    },
+    "properties": {
+    "name":"Bern",
+    "html":"Bern",
+    "mentions":541,
+    "wikipedia":"https://de.wikipedia.org/wiki/Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.40348,37.22815 ]
+    },
+    "properties": {
+    "name":"Petersburg",
+    "html":"Petersburg",
+    "mentions":533,
+    "wikipedia":"https://de.wikipedia.org/wiki/Sankt_Petersburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.33305009,31.46273305 ]
+    },
+    "properties": {
+    "name":"Texas",
+    "html":"Texas",
+    "mentions":498,
+    "wikipedia":"https://de.wikipedia.org/wiki/Texas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.91253,31.2105 ]
+    },
+    "properties": {
+    "name":"Alexandria",
+    "html":"Alexandria",
+    "mentions":483,
+    "wikipedia":"https://de.wikipedia.org/wiki/Alexandria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.21873,31.78003 ]
+    },
+    "properties": {
+    "name":"Jerusalem",
+    "html":"Jerusalem",
+    "mentions":459,
+    "wikipedia":"https://de.wikipedia.org/wiki/Jerusalem"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.616126398,52.24937529 ]
+    },
+    "properties": {
+    "name":"Holland",
+    "html":"Holland",
+    "mentions":454,
+    "wikipedia":"https://de.wikipedia.org/wiki/Holland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.32787,50.97695 ]
+    },
+    "properties": {
+    "name":"Weimar",
+    "html":"Weimar",
+    "mentions":441,
+    "wikipedia":"https://de.wikipedia.org/wiki/Weimar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.70798,49.41349 ]
+    },
+    "properties": {
+    "name":"Heidelberg",
+    "html":"Heidelberg",
+    "mentions":412,
+    "wikipedia":"https://de.wikipedia.org/wiki/Heidelberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.27241,50.00062 ]
+    },
+    "properties": {
+    "name":"Mainz",
+    "html":"Mainz",
+    "mentions":406,
+    "wikipedia":"https://de.wikipedia.org/wiki/Mainz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.17199,48.76776 ]
+    },
+    "properties": {
+    "name":"Stuttgart",
+    "html":"Stuttgart",
+    "mentions":379,
+    "wikipedia":"https://de.wikipedia.org/wiki/Stuttgart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.21691,28.63411 ]
+    },
+    "properties": {
+    "name":"Delhi",
+    "html":"Delhi",
+    "mentions":379,
+    "wikipedia":"https://de.wikipedia.org/wiki/Delhi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.5274,52.26544 ]
+    },
+    "properties": {
+    "name":"Braunschweig",
+    "html":"Braunschweig",
+    "mentions":358,
+    "wikipedia":"https://de.wikipedia.org/wiki/Braunschweig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.58781,47.5488 ]
+    },
+    "properties": {
+    "name":"Basel",
+    "html":"Basel",
+    "mentions":332,
+    "wikipedia":"https://de.wikipedia.org/wiki/Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.04925,35.14976 ]
+    },
+    "properties": {
+    "name":"Memphis",
+    "html":"Memphis",
+    "mentions":327,
+    "wikipedia":"https://de.wikipedia.org/wiki/Memphis_(%C3%84gypten)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.06683,59.33257 ]
+    },
+    "properties": {
+    "name":"Stockholm",
+    "html":"Stockholm",
+    "mentions":326,
+    "wikipedia":"https://de.wikipedia.org/wiki/Stockholm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.80469,53.0751 ]
+    },
+    "properties": {
+    "name":"Bremen",
+    "html":"Bremen",
+    "mentions":317,
+    "wikipedia":"https://de.wikipedia.org/wiki/Bremen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.90788,52.36993 ]
+    },
+    "properties": {
+    "name":"Amsterdam",
+    "html":"Amsterdam",
+    "mentions":312,
+    "wikipedia":"https://de.wikipedia.org/wiki/Amsterdam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.13224,54.32325 ]
+    },
+    "properties": {
+    "name":"Kiel",
+    "html":"Kiel",
+    "mentions":308,
+    "wikipedia":"https://de.wikipedia.org/wiki/Kiel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.21124,53.13882 ]
+    },
+    "properties": {
+    "name":"Oldenburg",
+    "html":"Oldenburg",
+    "mentions":288,
+    "wikipedia":"https://de.wikipedia.org/wiki/Oldenburg_(Oldb)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.20406,44.41176 ]
+    },
+    "properties": {
+    "name":"Ravenna",
+    "html":"Ravenna",
+    "mentions":280,
+    "wikipedia":"https://de.wikipedia.org/wiki/Ravenna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3913,47.268 ]
+    },
+    "properties": {
+    "name":"Innsbruck",
+    "html":"Innsbruck",
+    "mentions":271,
+    "wikipedia":"https://de.wikipedia.org/wiki/Innsbruck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.58634,50.92696 ]
+    },
+    "properties": {
+    "name":"Jena",
+    "html":"Jena",
+    "mentions":263,
+    "wikipedia":"https://de.wikipedia.org/wiki/Jena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.63153,52.13045 ]
+    },
+    "properties": {
+    "name":"Magdeburg",
+    "html":"Magdeburg",
+    "mentions":262,
+    "wikipedia":"https://de.wikipedia.org/wiki/Magdeburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.87919,10.48801 ]
+    },
+    "properties": {
+    "name":"Caracas",
+    "html":"Caracas",
+    "mentions":261,
+    "wikipedia":"https://de.wikipedia.org/wiki/Caracas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.04783,52.39961 ]
+    },
+    "properties": {
+    "name":"Potsdam",
+    "html":"Potsdam",
+    "mentions":250,
+    "wikipedia":"https://de.wikipedia.org/wiki/Potsdam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00714,40.71455 ]
+    },
+    "properties": {
+    "name":"New York",
+    "html":"New York",
+    "mentions":245,
+    "wikipedia":"https://de.wikipedia.org/wiki/New_York_City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.9917,45.4383 ]
+    },
+    "properties": {
+    "name":"Verona",
+    "html":"Verona",
+    "mentions":236,
+    "wikipedia":"https://de.wikipedia.org/wiki/Verona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.09164,54.31576 ]
+    },
+    "properties": {
+    "name":"Stralsund",
+    "html":"Stralsund",
+    "mentions":227,
+    "wikipedia":"https://de.wikipedia.org/wiki/Stralsund"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.47774662,38.36798275 ]
+    },
+    "properties": {
+    "name":"Missouri",
+    "html":"Missouri",
+    "mentions":215,
+    "wikipedia":"https://de.wikipedia.org/wiki/Missouri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41964,37.77712 ]
+    },
+    "properties": {
+    "name":"San Francisco",
+    "html":"San Francisco",
+    "mentions":206,
+    "wikipedia":"https://de.wikipedia.org/wiki/San_Francisco"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.813222,-6.134836 ]
+    },
+    "properties": {
+    "name":"Batavia",
+    "html":"Batavia",
+    "mentions":198,
+    "wikipedia":"https://de.wikipedia.org/wiki/Batavia_(Niederl%C3%A4ndisch-Indien)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.34507,44.50484 ]
+    },
+    "properties": {
+    "name":"Bologna",
+    "html":"Bologna",
+    "mentions":194,
+    "wikipedia":"https://de.wikipedia.org/wiki/Bologna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.84965,47.99853 ]
+    },
+    "properties": {
+    "name":"Freiburg",
+    "html":"Freiburg",
+    "mentions":193,
+    "wikipedia":"https://de.wikipedia.org/wiki/Freiburg_im_Breisgau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.51183,51.31853 ]
+    },
+    "properties": {
+    "name":"Kassel",
+    "html":"Kassel",
+    "mentions":187,
+    "wikipedia":"https://de.wikipedia.org/wiki/Kassel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.10173,49.01492 ]
+    },
+    "properties": {
+    "name":"Regensburg",
+    "html":"Regensburg",
+    "mentions":186,
+    "wikipedia":"https://de.wikipedia.org/wiki/Regensburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.70577,40.42028 ]
+    },
+    "properties": {
+    "name":"Madrid",
+    "html":"Madrid",
+    "mentions":183,
+    "wikipedia":"https://de.wikipedia.org/wiki/Madrid"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.063512157,47.38774221 ]
+    },
+    "properties": {
+    "name":"Aarau",
+    "html":"Aarau",
+    "mentions":174,
+    "wikipedia":"https://de.wikipedia.org/wiki/Aarau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03196,38.89037 ]
+    },
+    "properties": {
+    "name":"Washington",
+    "html":"Washington",
+    "mentions":173,
+    "wikipedia":"https://de.wikipedia.org/wiki/Washington,_D.C."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.07775,29.9537 ]
+    },
+    "properties": {
+    "name":"New Orleans",
+    "html":"New Orleans",
+    "mentions":165,
+    "wikipedia":"https://de.wikipedia.org/wiki/New_Orleans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.04337,47.80065 ]
+    },
+    "properties": {
+    "name":"Salzburg",
+    "html":"Salzburg",
+    "mentions":157,
+    "wikipedia":"https://de.wikipedia.org/wiki/Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.02824,-12.04318 ]
+    },
+    "properties": {
+    "name":"Lima",
+    "html":"Lima",
+    "mentions":156,
+    "wikipedia":"https://de.wikipedia.org/wiki/Lima"
+    }
+  }
+]
+}
