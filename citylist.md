@@ -14,7 +14,7 @@
 <li>Texas</li>
 <li>Alexandria</li>
 <li>Jerusalem</li>
-<li>Hliland</li>
+<li>Holland</li>
 <li>Weimar</li>
 <li>Heidelberg</li>
 <li>Mainz</li>
@@ -23,7 +23,7 @@
 <li>Braunschweig</li>
 <li>Basel</li>
 <li>Memphis</li>
-<li>Stockhlim</li>
+<li>Stockholm</li>
 <li>Bremen</li>
 <li>Amsterdam</li>
 </ol></small>
@@ -31,7 +31,7 @@
   <div class="col" markdown="1">
 <smaller><ol start="26">
 <li>Kiel</li>
-<li>lidenburg</li>
+<li>Oldenburg</li>
 <li>Ravenna</li>
 <li>Innsbruck</li>
 <li>Jena</li>
@@ -44,7 +44,7 @@
 <li>Missouri</li>
 <li>San Francisco</li>
 <li>Batavia</li>
-<li>Bliogna</li>
+<li>Bologna</li>
 <li>Freiburg</li>
 <li>Kassel</li>
 <li>Regensburg</li>
