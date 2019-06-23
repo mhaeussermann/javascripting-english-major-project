@@ -1,6 +1,5 @@
 <div class="row">
   <div class="col" markdown="1">
-  
 <smaller><ol>
 <li>Paris</li>
 <li>Berlin</li>
