@@ -11,9 +11,29 @@
   </head>
   <body>
     <div class="container">
-      <h1>Places in 19<sup>th</sup> Century German Literature</h1>
-      <div id="nineteenth-map" class="map"></div>
-      <div id="content"></div>
+      <h1>Mapping places in 19<sup>th</sup> Century German Literature</h1>
+      <div class="row">
+        <div class="col-md-4" id="citylist">
+              <p>List of places will go here</p>
+        </div>
+        <div class="col-md-8" id="places-sidebar">
+        <div id="nineteenth-map" class="map"></div>
+        <div id="content">
+        <nav id="nav-tabs" class="nav nav-pills mt-3" role="tablist">
+          <a class="nav-link active" href="#nineteenth-intro" data-toggle="tab" role="tab">Introduction</a>
+          <a class="nav-link" href="#europe" data-toggle="tab" role="tab">Europe</a>
+          <a class="nav-link" href="#america" data-toggle="tab" role="tab">America</a>
+          <a class="nav-link" href="#asia" data-toggle="tab" role="tab">Asia</a>
+          <a class="nav-link" href="#africa" data-toggle="tab" role="tab">Africa</a>
+        </nav>
+        <div class="tab-content p-3">
+          <section class="tab-pane active" id="nineteenth-intro" role="tabpanel"> </section>
+          <section class="tab-pane" id="europe" role="tabpanel"> </section>
+          <section class="tab-pane" id="america" role="tabpanel"> </section>
+          <section class="tab-pane" id="asia" role="tabpanel"> </section>
+          <section class="tab-pane" id="africa" role="tabpanel"> </section>
+        </div>
+      </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
