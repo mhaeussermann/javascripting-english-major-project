@@ -3,7 +3,7 @@ let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
 // Load the Markdown file with jQuery.
 $.ajax({
-  url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/nineteenth-desc.md",
+  url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/nineteenth-intro.md",
   success: function(markdown){
     // Convert the Markdown to HTML.
     let html;

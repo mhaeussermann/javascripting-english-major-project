@@ -9,7 +9,7 @@
     },
     "properties": {
     "name":"Paris",
-    "html":"Paris",
+    "html":"europe",
     "mentions":4525,
     "wikipedia":"https://de.wikipedia.org/wiki/Paris"
     }
@@ -22,7 +22,7 @@
     },
     "properties": {
     "name":"Berlin",
-    "html":"Berlin",
+    "html":"europe",
     "mentions":4352,
     "wikipedia":"https://de.wikipedia.org/wiki/Berlin"
     }
@@ -35,7 +35,7 @@
     },
     "properties": {
     "name":"London",
-    "html":"London",
+    "html":"europe",
     "mentions":1517,
     "wikipedia":"https://de.wikipedia.org/wiki/London"
     }
@@ -48,7 +48,7 @@
     },
     "properties": {
     "name":"Hamburg",
-    "html":"Hamburg",
+    "html":"europe",
     "mentions":1234,
     "wikipedia":"https://de.wikipedia.org/wiki/Hamburg"
     }
@@ -61,7 +61,7 @@
     },
     "properties": {
     "name":"Hannover",
-    "html":"Hannover",
+    "html":"europe",
     "mentions":794,
     "wikipedia":"https://de.wikipedia.org/wiki/Hannover"
     }
@@ -74,7 +74,7 @@
     },
     "properties": {
     "name":"Leipzig",
-    "html":"Leipzig",
+    "html":"europe",
     "mentions":772,
     "wikipedia":"https://de.wikipedia.org/wiki/Leipzig"
     }
@@ -87,7 +87,7 @@
     },
     "properties": {
     "name":"Dresden",
-    "html":"Dresden",
+    "html":"europe",
     "mentions":712,
     "wikipedia":"https://de.wikipedia.org/wiki/Dresden"
     }
@@ -100,7 +100,7 @@
     },
     "properties": {
     "name":"Augsburg",
-    "html":"Augsburg",
+    "html":"europe",
     "mentions":669,
     "wikipedia":"https://de.wikipedia.org/wiki/Augsburg"
     }
@@ -113,7 +113,7 @@
     },
     "properties": {
     "name":"Bern",
-    "html":"Bern",
+    "html":"europe",
     "mentions":541,
     "wikipedia":"https://de.wikipedia.org/wiki/Bern"
     }
@@ -126,7 +126,7 @@
     },
     "properties": {
     "name":"Petersburg",
-    "html":"Petersburg",
+    "html":"europe",
     "mentions":533,
     "wikipedia":"https://de.wikipedia.org/wiki/Sankt_Petersburg"
     }
@@ -139,7 +139,7 @@
     },
     "properties": {
     "name":"Texas",
-    "html":"Texas",
+    "html":"america",
     "mentions":498,
     "wikipedia":"https://de.wikipedia.org/wiki/Texas"
     }
@@ -152,7 +152,7 @@
     },
     "properties": {
     "name":"Alexandria",
-    "html":"Alexandria",
+    "html":"africa",
     "mentions":483,
     "wikipedia":"https://de.wikipedia.org/wiki/Alexandria"
     }
@@ -165,7 +165,7 @@
     },
     "properties": {
     "name":"Jerusalem",
-    "html":"Jerusalem",
+    "html":"asia",
     "mentions":459,
     "wikipedia":"https://de.wikipedia.org/wiki/Jerusalem"
     }
@@ -178,7 +178,7 @@
     },
     "properties": {
     "name":"Holland",
-    "html":"Holland",
+    "html":"europe",
     "mentions":454,
     "wikipedia":"https://de.wikipedia.org/wiki/Holland"
     }
@@ -191,7 +191,7 @@
     },
     "properties": {
     "name":"Weimar",
-    "html":"Weimar",
+    "html":"europe",
     "mentions":441,
     "wikipedia":"https://de.wikipedia.org/wiki/Weimar"
     }
@@ -204,7 +204,7 @@
     },
     "properties": {
     "name":"Heidelberg",
-    "html":"Heidelberg",
+    "html":"europe",
     "mentions":412,
     "wikipedia":"https://de.wikipedia.org/wiki/Heidelberg"
     }
@@ -217,7 +217,7 @@
     },
     "properties": {
     "name":"Mainz",
-    "html":"Mainz",
+    "html":"europe",
     "mentions":406,
     "wikipedia":"https://de.wikipedia.org/wiki/Mainz"
     }
@@ -230,7 +230,7 @@
     },
     "properties": {
     "name":"Stuttgart",
-    "html":"Stuttgart",
+    "html":"europe",
     "mentions":379,
     "wikipedia":"https://de.wikipedia.org/wiki/Stuttgart"
     }
@@ -243,7 +243,7 @@
     },
     "properties": {
     "name":"Delhi",
-    "html":"Delhi",
+    "html":"asia",
     "mentions":379,
     "wikipedia":"https://de.wikipedia.org/wiki/Delhi"
     }
@@ -256,7 +256,7 @@
     },
     "properties": {
     "name":"Braunschweig",
-    "html":"Braunschweig",
+    "html":"europe",
     "mentions":358,
     "wikipedia":"https://de.wikipedia.org/wiki/Braunschweig"
     }
@@ -269,7 +269,7 @@
     },
     "properties": {
     "name":"Basel",
-    "html":"Basel",
+    "html":"europe",
     "mentions":332,
     "wikipedia":"https://de.wikipedia.org/wiki/Basel"
     }
@@ -282,7 +282,7 @@
     },
     "properties": {
     "name":"Memphis",
-    "html":"Memphis",
+    "html":"africa",
     "mentions":327,
     "wikipedia":"https://de.wikipedia.org/wiki/Memphis_(%C3%84gypten)"
     }
@@ -295,7 +295,7 @@
     },
     "properties": {
     "name":"Stockholm",
-    "html":"Stockholm",
+    "html":"europe",
     "mentions":326,
     "wikipedia":"https://de.wikipedia.org/wiki/Stockholm"
     }
@@ -308,7 +308,7 @@
     },
     "properties": {
     "name":"Bremen",
-    "html":"Bremen",
+    "html":"europe",
     "mentions":317,
     "wikipedia":"https://de.wikipedia.org/wiki/Bremen"
     }
@@ -321,7 +321,7 @@
     },
     "properties": {
     "name":"Amsterdam",
-    "html":"Amsterdam",
+    "html":"europe",
     "mentions":312,
     "wikipedia":"https://de.wikipedia.org/wiki/Amsterdam"
     }
@@ -334,7 +334,7 @@
     },
     "properties": {
     "name":"Kiel",
-    "html":"Kiel",
+    "html":"europe",
     "mentions":308,
     "wikipedia":"https://de.wikipedia.org/wiki/Kiel"
     }
@@ -347,7 +347,7 @@
     },
     "properties": {
     "name":"Oldenburg",
-    "html":"Oldenburg",
+    "html":"europe",
     "mentions":288,
     "wikipedia":"https://de.wikipedia.org/wiki/Oldenburg_(Oldb)"
     }
@@ -360,7 +360,7 @@
     },
     "properties": {
     "name":"Ravenna",
-    "html":"Ravenna",
+    "html":"europe",
     "mentions":280,
     "wikipedia":"https://de.wikipedia.org/wiki/Ravenna"
     }
@@ -373,7 +373,7 @@
     },
     "properties": {
     "name":"Innsbruck",
-    "html":"Innsbruck",
+    "html":"europe",
     "mentions":271,
     "wikipedia":"https://de.wikipedia.org/wiki/Innsbruck"
     }
@@ -386,7 +386,7 @@
     },
     "properties": {
     "name":"Jena",
-    "html":"Jena",
+    "html":"europe",
     "mentions":263,
     "wikipedia":"https://de.wikipedia.org/wiki/Jena"
     }
@@ -399,7 +399,7 @@
     },
     "properties": {
     "name":"Magdeburg",
-    "html":"Magdeburg",
+    "html":"europe",
     "mentions":262,
     "wikipedia":"https://de.wikipedia.org/wiki/Magdeburg"
     }
@@ -412,7 +412,7 @@
     },
     "properties": {
     "name":"Caracas",
-    "html":"Caracas",
+    "html":"america",
     "mentions":261,
     "wikipedia":"https://de.wikipedia.org/wiki/Caracas"
     }
@@ -425,7 +425,7 @@
     },
     "properties": {
     "name":"Potsdam",
-    "html":"Potsdam",
+    "html":"europe",
     "mentions":250,
     "wikipedia":"https://de.wikipedia.org/wiki/Potsdam"
     }
@@ -438,7 +438,7 @@
     },
     "properties": {
     "name":"New York",
-    "html":"New York",
+    "html":"america",
     "mentions":245,
     "wikipedia":"https://de.wikipedia.org/wiki/New_York_City"
     }
@@ -451,7 +451,7 @@
     },
     "properties": {
     "name":"Verona",
-    "html":"Verona",
+    "html":"europe",
     "mentions":236,
     "wikipedia":"https://de.wikipedia.org/wiki/Verona"
     }
@@ -464,7 +464,7 @@
     },
     "properties": {
     "name":"Stralsund",
-    "html":"Stralsund",
+    "html":"europe",
     "mentions":227,
     "wikipedia":"https://de.wikipedia.org/wiki/Stralsund"
     }
@@ -477,7 +477,7 @@
     },
     "properties": {
     "name":"Missouri",
-    "html":"Missouri",
+    "html":"america",
     "mentions":215,
     "wikipedia":"https://de.wikipedia.org/wiki/Missouri"
     }
@@ -490,7 +490,7 @@
     },
     "properties": {
     "name":"San Francisco",
-    "html":"San Francisco",
+    "html":"america",
     "mentions":206,
     "wikipedia":"https://de.wikipedia.org/wiki/San_Francisco"
     }
@@ -503,7 +503,7 @@
     },
     "properties": {
     "name":"Batavia",
-    "html":"Batavia",
+    "html":"asia",
     "mentions":198,
     "wikipedia":"https://de.wikipedia.org/wiki/Batavia_(Niederl%C3%A4ndisch-Indien)"
     }
@@ -516,7 +516,7 @@
     },
     "properties": {
     "name":"Bologna",
-    "html":"Bologna",
+    "html":"europe",
     "mentions":194,
     "wikipedia":"https://de.wikipedia.org/wiki/Bologna"
     }
@@ -529,7 +529,7 @@
     },
     "properties": {
     "name":"Freiburg",
-    "html":"Freiburg",
+    "html":"europe",
     "mentions":193,
     "wikipedia":"https://de.wikipedia.org/wiki/Freiburg_im_Breisgau"
     }
@@ -542,7 +542,7 @@
     },
     "properties": {
     "name":"Kassel",
-    "html":"Kassel",
+    "html":"europe",
     "mentions":187,
     "wikipedia":"https://de.wikipedia.org/wiki/Kassel"
     }
@@ -555,7 +555,7 @@
     },
     "properties": {
     "name":"Regensburg",
-    "html":"Regensburg",
+    "html":"europe",
     "mentions":186,
     "wikipedia":"https://de.wikipedia.org/wiki/Regensburg"
     }
@@ -568,7 +568,7 @@
     },
     "properties": {
     "name":"Madrid",
-    "html":"Madrid",
+    "html":"europe",
     "mentions":183,
     "wikipedia":"https://de.wikipedia.org/wiki/Madrid"
     }
@@ -581,7 +581,7 @@
     },
     "properties": {
     "name":"Aarau",
-    "html":"Aarau",
+    "html":"europe",
     "mentions":174,
     "wikipedia":"https://de.wikipedia.org/wiki/Aarau"
     }
@@ -594,7 +594,7 @@
     },
     "properties": {
     "name":"Washington",
-    "html":"Washington",
+    "html":"america",
     "mentions":173,
     "wikipedia":"https://de.wikipedia.org/wiki/Washington,_D.C."
     }
@@ -607,7 +607,7 @@
     },
     "properties": {
     "name":"New Orleans",
-    "html":"New Orleans",
+    "html":"america",
     "mentions":165,
     "wikipedia":"https://de.wikipedia.org/wiki/New_Orleans"
     }
@@ -620,7 +620,7 @@
     },
     "properties": {
     "name":"Salzburg",
-    "html":"Salzburg",
+    "html":"europe",
     "mentions":157,
     "wikipedia":"https://de.wikipedia.org/wiki/Salzburg"
     }
@@ -633,7 +633,7 @@
     },
     "properties": {
     "name":"Lima",
-    "html":"Lima",
+    "html":"america",
     "mentions":156,
     "wikipedia":"https://de.wikipedia.org/wiki/Lima"
     }
