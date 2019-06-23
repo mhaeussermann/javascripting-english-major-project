@@ -1,3 +1,18 @@
+// Define and assign a Markdown-it renderer.
+let md;
+md = window.markdownit({html: true}).use(window.markdownitFootnote);
+// Load the Markdown file with jQuery.
+$.ajax({
+  url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/nineteenth-desc.md",
+  success: function(markdown){
+    // Convert the Markdown to HTML.
+    let html;
+    html = md.render(markdown);
+    // Print the HTML to #content using jQuery.
+    $("#content").html(html);
+  }
+});
+
 let map, tileLayer;
 map = L.map("nineteenth-map");
 tileLayer = L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
