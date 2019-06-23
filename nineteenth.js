@@ -15,7 +15,8 @@ md = window.markdownit({html: true}).use(window.markdownitFootnote);
     }
   });
 });
-//
+
+// Load the list of cities / places
 $.ajax({
   url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/citylist.md",
   success: function(markdown){

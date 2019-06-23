@@ -1,3 +1,5 @@
+<div class="row">
+  <div class="col-md-2" markdown="1">
 1. Paris
 2. Berlin
 3. London
@@ -23,6 +25,8 @@
 23. Stockholm
 24. Bremen
 25. Amsterdam
+  </div>
+  <div class="col-md-2" markdown="1">
 26. Kiel
 27. Oldenburg
 28. Ravenna
@@ -47,3 +51,5 @@
 47. New Orleans
 48. Salzburg
 49. Lima
+  </div>
+</div>
