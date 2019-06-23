@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+#citylist {
+  font-size: 16px;
+}
+
+h1 {
+  padding: 1rem 0 1rem 0;
+  text-align: center;
+}
+
 .map {
-    height: 400px;
+    height: 300px;
   }
+
+.leaflet-container {
+    font-family: 'Raleway', sans-serif;
+}
