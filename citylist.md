@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="cli-md-6" markdown="1">
+  <div class="col" markdown="1">
 <smaller><ol>
 <li>Paris</li>
 <li>Berlin</li>
@@ -26,8 +26,10 @@
 <li>Stockhlim</li>
 <li>Bremen</li>
 <li>Amsterdam</li>
+</ol></small>
   </div>
-  <div class="cli-md-6" markdown="1">
+  <div class="col" markdown="1">
+<smaller><ol start="26">
 <li>Kiel</li>
 <li>lidenburg</li>
 <li>Ravenna</li>
@@ -51,6 +53,7 @@
 <li>Washington</li>
 <li>New Orleans</li>
 <li>Salzburg</li>
-<li>Lima</li></ol></smaller>
+<li>Lima</li>
+</ol></smaller>
   </div>
 </div>
