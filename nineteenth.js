@@ -63,7 +63,8 @@ $.getJSON("https://raw.githubusercontent.com/mhaeussermann/javascripting-english
   nineteenthLayer = L.featureGroup(nineteenthFeatures.map(function(feature){
     let popupContent;
     popupContent = "<h4>" + feature.name + "</h4>";
-    popupContent = popupContent + "Read about " + feature.name + " on <a href='"+ feature.wikipedia + "'>Wikipedia</a>.";
+    popupContent += "This place was mentioned" + feature.mentions + "times in the corpus.";
+    popupContent += "Read about " + feature.name + " on <a href='"+ feature.wikipedia + "'>Wikipedia</a>.";
     return L.marker(feature.latLng).bindPopup(popupContent);
     })
   )

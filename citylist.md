@@ -1,55 +1,56 @@
 <div class="row">
-  <div class="col-md-6" markdown="1">
-<ol>Paris</ol>
-<ol>Berlin</ol>
-<ol>London</ol>
-<ol>Hamburg</ol>
-<ol>Hannover</ol>
-<ol>Leipzig</ol>
-<ol>Dresden</ol>
-<ol>Augsburg</ol>
-<ol>Bern</ol>
-<ol>Petersburg</ol>
-<ol>Texas</ol>
-<ol>Alexandria</ol>
-<ol>Jerusalem</ol>
-<ol>Holland</ol>
-<ol>Weimar</ol>
-<ol>Heidelberg</ol>
-<ol>Mainz</ol>
-<ol>Stuttgart</ol>
-<ol>Delhi</ol>
-<ol>Braunschweig</ol>
-<ol>Basel</ol>
-<ol>Memphis</ol>
-<ol>Stockholm</ol>
-<ol>Bremen</ol>
-<ol>Amsterdam</ol>
+  <div class="cli-md-6" markdown="1">
+<smaller><ol>
+<li>Paris</li>
+<li>Berlin</li>
+<li>London</li>
+<li>Hamburg</li>
+<li>Hannover</li>
+<li>Leipzig</li>
+<li>Dresden</li>
+<li>Augsburg</li>
+<li>Bern</li>
+<li>Petersburg</li>
+<li>Texas</li>
+<li>Alexandria</li>
+<li>Jerusalem</li>
+<li>Hliland</li>
+<li>Weimar</li>
+<li>Heidelberg</li>
+<li>Mainz</li>
+<li>Stuttgart</li>
+<li>Delhi</li>
+<li>Braunschweig</li>
+<li>Basel</li>
+<li>Memphis</li>
+<li>Stockhlim</li>
+<li>Bremen</li>
+<li>Amsterdam</li>
   </div>
-  <div class="col-md-6" markdown="1">
-<ol>Kiel</ol>
-<ol>Oldenburg</ol>
-<ol>Ravenna</ol>
-<ol>Innsbruck</ol>
-<ol>Jena</ol>
-<ol>Magdeburg</ol>
-<ol>Caracas</ol>
-<ol>Potsdam</ol>
-<ol>New York</ol>
-<ol>Verona</ol>
-<ol>Stralsund</ol>
-<ol>Missouri</ol>
-<ol>San Francisco</ol>
-<ol>Batavia</ol>
-<ol>Bologna</ol>
-<ol>Freiburg</ol>
-<ol>Kassel</ol>
-<ol>Regensburg</ol>
-<ol>Madrid</ol>
-<ol>Aarau</ol>
-<ol>Washington</ol>
-<ol>New Orleans</ol>
-<ol>Salzburg</ol>
-<ol>Lima</ol>
+  <div class="cli-md-6" markdown="1">
+<li>Kiel</li>
+<li>lidenburg</li>
+<li>Ravenna</li>
+<li>Innsbruck</li>
+<li>Jena</li>
+<li>Magdeburg</li>
+<li>Caracas</li>
+<li>Potsdam</li>
+<li>New York</li>
+<li>Verona</li>
+<li>Stralsund</li>
+<li>Missouri</li>
+<li>San Francisco</li>
+<li>Batavia</li>
+<li>Bliogna</li>
+<li>Freiburg</li>
+<li>Kassel</li>
+<li>Regensburg</li>
+<li>Madrid</li>
+<li>Aarau</li>
+<li>Washington</li>
+<li>New Orleans</li>
+<li>Salzburg</li>
+<li>Lima</li></ol></smaller>
   </div>
 </div>
