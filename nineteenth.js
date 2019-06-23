@@ -15,6 +15,15 @@ md = window.markdownit({html: true}).use(window.markdownitFootnote);
     }
   });
 });
+//
+$.ajax({
+  url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/citylist.md",
+  success: function(markdown){
+    let html;
+    html = md.render(markdown);
+    $("#citylist").html(html);
+  }
+});
 
 let map, tileLayer;
 map = L.map("nineteenth-map");
@@ -51,7 +60,10 @@ $.getJSON("https://raw.githubusercontent.com/mhaeussermann/javascripting-english
   // Now create a Leaflet feature group made up of markers for each
   // object in nineteenthFeatures.
   nineteenthLayer = L.featureGroup(nineteenthFeatures.map(function(feature){
-    return L.marker(feature.latLng);
+    let popupContent;
+    popupContent = "<h4>" + feature.name + "</h4>";
+    popupContent = popupContent + "Read about " + feature.name + " on <a href='"+ feature.wikipedia + "'>Wikipedia</a>.";
+    return L.marker(feature.latLng).bindPopup(popupContent);
     })
   )
   // Add the layer to the map.
