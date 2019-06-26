@@ -4,7 +4,7 @@ md = window.markdownit({html: true}).use(window.markdownitFootnote);
 
 ["america", "asia",
   "europe", "nineteenth-intro",
-  "africa"].forEach(function(tab){
+  "africa", "citylist"].forEach(function(tab){
   // Create a variable tab that has the name as a string.
   $.ajax({
     // tab + ".md" yields, for example, "rampart.md".
@@ -19,14 +19,14 @@ md = window.markdownit({html: true}).use(window.markdownitFootnote);
 });
 
 // Load the list of cities / places
-$.ajax({
-  url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/citylist.md",
-  success: function(markdown){
-    let html;
-    html = md.render(markdown);
-    $("#citylist").html(html);
-  }
-});
+//$.ajax({
+//  url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/citylist.md",
+//  success: function(markdown){
+//    let html;
+//    html = md.render(markdown);
+//    $("#citylist").html(html);
+//  }
+//});
 
 // Define map
 let map, tileLayer;
