@@ -1,5 +1,7 @@
+// Markdown-it renderer
 let md;
 md = window.markdownit({html: true}).use(window.markdownitFootnote);
+
 ["america", "asia",
   "europe", "nineteenth-intro",
   "africa"].forEach(function(tab){
@@ -26,6 +28,7 @@ $.ajax({
   }
 });
 
+// Define map
 let map, tileLayer;
 map = L.map("nineteenth-map");
 tileLayer = L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
