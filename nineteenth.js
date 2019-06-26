@@ -19,11 +19,24 @@ md = window.markdownit({html: true}).use(window.markdownitFootnote);
 // Load the list of cities / places
 $.ajax({
   url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/citylist.md",
-  success: function(markdown){
+  success: function(clist){
     let html;
-    html = md.render(markdown);
+    html = md.render(clist);
     $("#citylist").html(html);
-  }
+    // The above is the same as the $.ajax() call in the prev. ch.
+    $("#citylist").html(function(_, oldHtml){
+      let regex, newHtml;
+      // Assign the the regex the value of feature.html and the 
+      // flag “g”. This is the equivalent to /Hastings Street/g.
+      regex = RegExp(feature.html, "g");
+      // Fill in newHtml with the properties from the couldBeFeatures.
+      newHtml = "<a href='#' data-tab='" + feature.tab + "'>" + feature.html + "</a>";
+      // Return the newHtml wherever `replace()` finds the value
+      // of regex.
+      return oldHtml.replace(regex, newHtml);
+    });
+  });
+}
 });
 
 let map, tileLayer;
