@@ -2,21 +2,48 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>My JavaScripting English Major Project</title>
+    <title>Mapping 19th Century Germany Literature</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+   crossorigin=""/>
+    <link rel="stylesheet" href="nineteenth.css" />
   </head>
   <body>
     <div class="container">
-      <h1>A starting point for a future project.</h1>
-      <h2><a href="prologue.html">General Prologue</a></h2>
-      <h2><a href="leaflet.html">Leaflet page</a></h2>
-      <h2><a href="literaturemap.html">Literaturemap</a></h2>
+      <h1>Mapping 19<sup>th</sup> Century German Literature</h1>
+      <div class="row">
+        <div class="col-md-12" id="places-sidebar">
+        <div id="nineteenth-map" class="map"></div>
+        <div id="content">
+        <nav id="nav-tabs" class="nav nav-pills mt-3" role="tablist">
+          <a class="nav-link active" href="#nineteenth-intro" data-toggle="tab" role="tab">Introduction</a>
+          <a class="nav-link" href="#europe" data-toggle="tab" role="tab">Europe</a>
+          <a class="nav-link" href="#america" data-toggle="tab" role="tab">America</a>
+          <a class="nav-link" href="#asia" data-toggle="tab" role="tab">Asia</a>
+          <a class="nav-link" href="#africa" data-toggle="tab" role="tab">Africa</a>
+          <a class="nav-link justify-content-end" id="listtab" href="#citylist" data-toggle="tab" role="tab">List</a>
+        </nav>
+        <div class="tab-content p-3">
+          <section class="tab-pane active" id="nineteenth-intro" role="tabpanel"> </section>
+          <section class="tab-pane" id="europe" role="tabpanel"> </section>
+          <section class="tab-pane" id="america" role="tabpanel"> </section>
+          <section class="tab-pane" id="asia" role="tabpanel"> </section>
+          <section class="tab-pane" id="africa" role="tabpanel"> </section>
+          <section class="tab-pane" id="citylist" role="tabpanel"></section>
+        </div>
+      </div>
     </div>
+    <!--<div class="col-md-4" id="citylist"></div>-->
+    <footer>
+      CC BY-NC-SA 4.0 by Manuel Häußermann. This project was developed as a final project in <a href="https://moacir.com/">Moacir P. de Sá Pereira's</a> course <a href="https://the-javascripting-english-major.org">The JavaScripting English Major</a>.
+    </footer>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.0/markdown-it.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it-footnote/3.0.1/markdown-it-footnote.js"></script>
+    <script src="nineteenth.js"></script>
   </body>
 </html>
