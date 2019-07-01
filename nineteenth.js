@@ -1,4 +1,6 @@
-// Markdown-it renderer
+// Define and assign a Markdown-it renderer.
+let md;
+md = window.markdownit({html: true}).use(window.markdownitFootnote);
 // Define map
 let map, tileLayer;
 map = L.map("nineteenth-map").setView([52.520008, 13.404954], 3);
