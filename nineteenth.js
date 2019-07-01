@@ -63,9 +63,9 @@ loadList = function(featuresArray){
     success: function(markdown){
       let html;
       html = md.render(markdown);
-      $("#poem").html(html);
+      $("#citylist").html(html);
       featuresArray.forEach(function(feature){
-        $("#poem").html(function(_, oldHtml){
+        $("#citylist").html(function(_, oldHtml){
           let regex, newHtml;
           regex = RegExp(feature.html, "g");
           newHtml = "<a href='#' data-tab='" +
