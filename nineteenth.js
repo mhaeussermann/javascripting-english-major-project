@@ -79,10 +79,10 @@ loadList = function(featuresArray){
         });
         // While looping, make the navigation tabs also cause panning.
         $("#nav-tabs a[href='#" + feature.tab + "']").click(function(){
-          map.panTo(feature.latLng);
+          map.panTo(feature.latLng);  
         });
       });
-      $("#poem a").click(function(){
+      $("#citylist").click(function(){
         let tab, lat, lng;
         tab = $( this ).data("tab");
         $("#nav-tabs a[href='#" + tab + "']").tab("show");
