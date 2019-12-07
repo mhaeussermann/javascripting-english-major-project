@@ -1,1 +1,10 @@
 ## America
+In America, we can find six locations in North America and two in South America which are in the Top 50 of the Corpus. Of course Washington, D.C. and New York are present, but also San Francisco. More surprising are Missouri, Texas and New Orleans, even more so because the first two are not states and not technically locations in the sense of cities, but let's just overlook that for now. Furthermore, Lima and Caracas are not places one might expect in 19th Century German-Language Fiction.
+
+## North America
+North America seems mostly like an backdrop in adventure novels for German-language writers in the 19th Century. Furthermore, a few very prolific travel writers report their 'American' experience for the German-language audience in the US and Europe. Some writers like [Friedrich Gerstäcker](https://gutenberg.spiegel.de/autor/friedrich-gerstacker-195) or [Balduin Möllhausen](https://gutenberg.spiegel.de/autor/balduin-mollhausen-417) even wrote adventure novels while also reporting of their travels through North and South America.
+
+These writers shaped the German imagination of the "Wild West". One has to keep in mind that the migration of Germans into the US reached its peak in 1882, when around 250.000 Germans immigrated into the US. One could argue that the imaginative space created by non-fiction and fiction writers alike was certainly a part in sparking German with the US.
+
+## South America
+Especially Friedrich Gerstäcker, [Friedrich Willhelm Mader](https://gutenberg.spiegel.de/autor/friedrich-wilhelm-mader-1764) and Alexander von Humboldt mention the Caracas. Humboldt is interested in topology and geography while Gerstäcker describes [his surprise while noticing the large German population in the city](https://gutenberg.spiegel.de/buch/neue-reisen-durch-die-vereinigten-staaten-mexiko-ecuador-westindien-u-venezuela-9165/28). The government of Caracas is mentioned surprisingly often.
