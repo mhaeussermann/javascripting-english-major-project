@@ -11,7 +11,7 @@ tileLayer = L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/ligh
             }).addTo(map);
 
 // Define the features array.
-$.getJSON("https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/19th_places_counted.geojson", function(data){
+$.getJSON("https://raw.githubusercontent.com/mhaeussermann/mapping-19th-lit/master/19th_places_counted.geojson", function(data){
   // Define the Leaflet layer.
   let nineteenthFeatures, nineteenthLayer;
   // Iterate over the .features property of the GeoJSON object to
@@ -59,7 +59,7 @@ $.getJSON("https://raw.githubusercontent.com/mhaeussermann/javascripting-english
 let loadList, loadNavTabs;
 loadList = function(featuresArray){
   $.ajax({
-    url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/citylist.md",
+    url: "https://raw.githubusercontent.com/mhaeussermann/mapping-19th-lit/master/citylist.md",
     success: function(markdown){
       let html;
       html = md.render(markdown);
@@ -103,7 +103,7 @@ loadNavTabs = function(featuresArray){
   }).concat(["introduction"]).forEach(function(tab){
     // Loop through the new array of tab names and "introduction".
       $.ajax({
-        url: "https://raw.githubusercontent.com/mhaeussermann/javascripting-english-major-project/master/" + tab + ".md",
+        url: "https://raw.githubusercontent.com/mhaeussermann/mapping-19th-lit/master/" + tab + ".md",
         success: function(markdown){
           let html;
           html = md.render(markdown);
