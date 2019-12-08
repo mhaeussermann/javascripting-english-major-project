@@ -1,1 +1,2 @@
 ## Asia
+Only Delhi and Batavia are the two locations in Asia on the Top 50 list. Delhi is mentioned by Heinrich Heine and is mentioned a lot by [Robert Kraft](https://gutenberg.spiegel.de/autor/robert-kraft-342) in his novels _Um die indische Kaiserkrone_. Batavia is a topic in Friedrich Gerstäcker's [explorations of Java](https://gutenberg.spiegel.de/buch/java-1611/) as well as other writing by Robert Kraft. It's also described in a chapter of August Wilhelm Grube's [Asien und Australien](https://gutenberg.spiegel.de/buch/asien-und-australien-2443/19).
