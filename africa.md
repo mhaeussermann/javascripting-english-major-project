@@ -1,2 +1,2 @@
 ## Africa
-The places in the Top 50 list are mostly in North Africa close to Asia and Europe, namely Jurasalem, Memphis and Alexandria.
+The places in the Top 50 list are mostly located in the Middle East close to Asia and Europe, namely Jerusalem, Memphis and Alexandria. Egypt was crucial to the works of [Georg Ebers](https://gutenberg.spiegel.de/autor/georg-ebers-137) as he wrote around 20 novels located in Egyptian settings. Jerusalem, Memphis and Alexandria serve as historical points of reference with writers either describing the downfall of great civilizations or the rulers of these civilizations.
